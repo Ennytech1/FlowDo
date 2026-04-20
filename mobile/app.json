@@ -10,7 +10,7 @@
     
 
     "cli": {
-      "appVersionSource": "remote"
+      "appVersionSource": "local"
     },
     "android": {
       "package": "com.flowdo.app",
